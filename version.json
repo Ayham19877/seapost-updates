@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261023,
-  "versionName": "1.0.15",
+  "versionCode": 20261024,
+  "versionName": "1.0.16",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "تبسيط اختيار نقطة الرمي: الكبسة على الخريطة المصغرة تختار النقطة فوراً (بلا زر تأكيد إضافي) — حل مشكلة النقطة العالقة على (0,0).",
-  "date": "2026-10-09T21:08:00Z"
+  "notes": "إصلاح عرض ملفات الخريطة/الشاطئ القديمة من كاش الـWebView (كسر الكاش برقم النسخة) + الإعدادات تعرض رقم النسخة الحقيقي بدل 1.0 الثابت.",
+  "date": "2026-10-09T21:58:00Z"
 }
