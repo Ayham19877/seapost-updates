@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261020,
-  "versionName": "1.0.12",
+  "versionCode": 20261021,
+  "versionName": "1.0.13",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إصلاح تسرب صوت الشاطئ: صوت الأمواج كان يستمر بالعمل بعد مغادرة مشهد الشاطئ — الآن يتوقف فور الخروج.",
-  "date": "2026-10-09T20:08:00Z"
+  "notes": "شاشة التتبع صارت تكتب موقع الزجاجة الحالي: اسم البحر وأقرب ساحل (مثلاً: المحيط الأطلسي • قبالة سواحل نيجيريا) + ظهر خط مسار الرحلة المنقط.",
+  "date": "2026-10-09T20:40:00Z"
 }
