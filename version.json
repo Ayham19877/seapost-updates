@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261025,
-  "versionName": "1.0.17",
+  "versionCode": 20261026,
+  "versionName": "1.0.18",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إصلاح خطأ منع زر التأكيد من الاختفاء (سطر remove(hidden) كان يلغي الإخفاء) — الآن الكبسة على الخريطة المصغرة تختار النقطة فوراً فعلاً.",
-  "date": "2026-10-09T22:34:00Z"
+  "notes": "النقطة (0,0) صارت مرفوضة نهائياً: الكبسة عليها ما بتنحط وما بتنقبل، وبتطلع رسالة واضحة. اختر نقطة حقيقية في البحر.",
+  "date": "2026-10-09T23:45:00Z"
 }
