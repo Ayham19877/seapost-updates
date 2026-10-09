@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261022,
-  "versionName": "1.0.14",
+  "versionCode": 20261023,
+  "versionName": "1.0.15",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إصلاح: منع الرمي من النقطة (0,0) — كانت ترمي بلا اختيار فتذهب كل الزجاجات للبرازيل؛ كبسات البحار السريعة صارت تختار النقطة فوراً مع الطيران إليها.",
-  "date": "2026-10-09T20:52:00Z"
+  "notes": "تبسيط اختيار نقطة الرمي: الكبسة على الخريطة المصغرة تختار النقطة فوراً (بلا زر تأكيد إضافي) — حل مشكلة النقطة العالقة على (0,0).",
+  "date": "2026-10-09T21:08:00Z"
 }
