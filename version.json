@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261018,
-  "versionName": "1.0.10",
+  "versionCode": 20261019,
+  "versionName": "1.0.11",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "الزجاجة صارت مندمجة بروح التطبيق: تذوب بخلفية البحر مع توهج ناعم خلفها بدل مظهر الصورة الملصقة.",
-  "date": "2026-10-09T14:46:00Z"
+  "notes": "إصلاح الصوت: صار يعمل فقط بمشهد الشاطئ (رمي/صيد) وتتبع الزجاجة — توقف نهائياً عن العمل بكل الشاشات الأخرى. مفتاح الإعدادات صار للتحكم فقط.",
+  "date": "2026-10-09T14:49:00Z"
 }
