@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261021,
-  "versionName": "1.0.13",
+  "versionCode": 20261022,
+  "versionName": "1.0.14",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "شاشة التتبع صارت تكتب موقع الزجاجة الحالي: اسم البحر وأقرب ساحل (مثلاً: المحيط الأطلسي • قبالة سواحل نيجيريا) + ظهر خط مسار الرحلة المنقط.",
-  "date": "2026-10-09T20:40:00Z"
+  "notes": "إصلاح: منع الرمي من النقطة (0,0) — كانت ترمي بلا اختيار فتذهب كل الزجاجات للبرازيل؛ كبسات البحار السريعة صارت تختار النقطة فوراً مع الطيران إليها.",
+  "date": "2026-10-09T20:52:00Z"
 }
