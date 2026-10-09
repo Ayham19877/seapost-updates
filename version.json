@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261019,
-  "versionName": "1.0.11",
+  "versionCode": 20261020,
+  "versionName": "1.0.12",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إصلاح الصوت: صار يعمل فقط بمشهد الشاطئ (رمي/صيد) وتتبع الزجاجة — توقف نهائياً عن العمل بكل الشاشات الأخرى. مفتاح الإعدادات صار للتحكم فقط.",
-  "date": "2026-10-09T14:49:00Z"
+  "notes": "إصلاح تسرب صوت الشاطئ: صوت الأمواج كان يستمر بالعمل بعد مغادرة مشهد الشاطئ — الآن يتوقف فور الخروج.",
+  "date": "2026-10-09T20:08:00Z"
 }
