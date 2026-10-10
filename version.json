@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261143,
-  "versionName": "1.1.39",
+  "versionCode": 20261144,
+  "versionName": "1.1.40",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إصلاح فحص البحر: النقاط البحرية تُقبل.",
-  "date": "2026-10-10T07:26:00Z"
+  "notes": "فحص البحر متساهل: يقبل الساحل والبحر.",
+  "date": "2026-10-10T07:49:00Z"
 }
