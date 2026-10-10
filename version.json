@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261030,
-  "versionName": "1.0.22",
+  "versionCode": 20261031,
+  "versionName": "1.0.23",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "الخريطة المصغرة: اختيار النقطة بتحريك الخريطة (دبوس بالمركز) بدل الكبسة — دقة مضمونة.",
-  "date": "2026-10-10T01:14:00Z"
+  "notes": "شاشة الرمي: أُلغيت الخريطة المصغرة المعطوبة نهائياً — زر كبير يفتح الخريطة الكاملة (الشغالة) وكبسات البحار تفتحها ممركزة على البحر.",
+  "date": "2026-10-10T01:22:00Z"
 }
