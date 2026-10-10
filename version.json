@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261140,
-  "versionName": "1.1.36",
+  "versionCode": 20261141,
+  "versionName": "1.1.37",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "الطبقة الرملية مدورة متل الأزرار + زر الإعدادات ظاهر.",
-  "date": "2026-10-10T07:10:00Z"
+  "notes": "اختيار نقطة الرمي بالبحر فقط (منع اليابسة).",
+  "date": "2026-10-10T07:18:00Z"
 }
