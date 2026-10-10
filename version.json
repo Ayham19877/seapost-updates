@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261044,
-  "versionName": "1.0.36",
+  "versionCode": 20261101,
+  "versionName": "1.1.0",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "صورة الشاطئ: الحواف تذوب بلون الخلفية نفسه (#06283D) — بلا أي حد.",
-  "date": "2026-10-10T03:38:00Z"
+  "notes": "v1.1: نظام النقاط (10 يومياً) + الهدايا (وردة/ألماسة/تاج) + تسريع التوصيل (دلفين/زورق/صقر) + شرط التعارف (زجاجتان أو 20 نقطة).",
+  "date": "2026-10-10T03:40:00Z"
 }
