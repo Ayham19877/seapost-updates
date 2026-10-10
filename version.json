@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261146,
-  "versionName": "1.1.42",
+  "versionCode": 20261147,
+  "versionName": "1.1.43",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إخفاء جملة الخريطة المكررة بشاشة الصيد + وضوح الرتبة.",
-  "date": "2026-10-10T08:40:00Z"
+  "notes": "شاشة الصيد: الرتبة مكان العنوان + عداد المتبقي بالزاوية.",
+  "date": "2026-10-10T17:01:00Z"
 }
