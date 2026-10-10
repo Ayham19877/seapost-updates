@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261035,
-  "versionName": "1.0.27",
+  "versionCode": 20261036,
+  "versionName": "1.0.28",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "النقطة تُحفظ لحظة الكبسة عليها بالخريطة — حتى لو أغلق الخريطة بأي طريقة.",
-  "date": "2026-10-10T02:14:00Z"
+  "notes": "حفظ النقطة صار متزامناً (commit) — مستحيل يضيع حتى لو أُغلقت الخريطة فوراً.",
+  "date": "2026-10-10T02:25:00Z"
 }
