@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261027,
-  "versionName": "1.0.19",
+  "versionCode": 20261028,
+  "versionName": "1.0.20",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "رفض (0,0) من كل الطرق (الكبسة، الاقتراح، الرابط) — مستحيل تنحط علامة أو تنقبل.",
-  "date": "2026-10-10T00:38:00Z"
+  "notes": "الخريطة الكاملة: زر الرجوع يرجع آخر نقطة مختارة بدل إلغائها — ما عاد تضيع النقطة.",
+  "date": "2026-10-10T01:02:00Z"
 }
