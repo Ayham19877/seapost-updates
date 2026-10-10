@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261103,
-  "versionName": "1.1.2",
+  "versionCode": 20261104,
+  "versionName": "1.1.3",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إعادة تصميم الرئيسية: مشهد الشاطئ صار خلفية الشاشة كاملة — بلا أي صورة منفصلة أو حواف.",
-  "date": "2026-10-10T03:43:00Z"
+  "notes": "العنوان والنقاط والوصف انتقلت لآخر الشاشة — الصورة العلوية صافية.",
+  "date": "2026-10-10T03:48:00Z"
 }
