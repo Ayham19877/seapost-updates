@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261101,
-  "versionName": "1.1.0",
+  "versionCode": 20261102,
+  "versionName": "1.1.1",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "v1.1: نظام النقاط (10 يومياً) + الهدايا (وردة/ألماسة/تاج) + تسريع التوصيل (دلفين/زورق/صقر) + شرط التعارف (زجاجتان أو 20 نقطة).",
-  "date": "2026-10-10T03:40:00Z"
+  "notes": "إصلاح: الصاروخ 🚀 بدل الصقر (ممنوع الطيور) + التسريع يُطبق على المسار بشكل صحيح.",
+  "date": "2026-10-10T03:42:00Z"
 }
