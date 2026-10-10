@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261026,
-  "versionName": "1.0.18",
+  "versionCode": 20261027,
+  "versionName": "1.0.19",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "النقطة (0,0) صارت مرفوضة نهائياً: الكبسة عليها ما بتنحط وما بتنقبل، وبتطلع رسالة واضحة. اختر نقطة حقيقية في البحر.",
-  "date": "2026-10-09T23:45:00Z"
+  "notes": "رفض (0,0) من كل الطرق (الكبسة، الاقتراح، الرابط) — مستحيل تنحط علامة أو تنقبل.",
+  "date": "2026-10-10T00:38:00Z"
 }
