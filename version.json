@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261028,
-  "versionName": "1.0.20",
+  "versionCode": 20261029,
+  "versionName": "1.0.21",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "الخريطة الكاملة: زر الرجوع يرجع آخر نقطة مختارة بدل إلغائها — ما عاد تضيع النقطة.",
-  "date": "2026-10-10T01:02:00Z"
+  "notes": "إصلاح حساب إحداثيات الكبسة على الخريطة المصغرة (invalidateSize قوي).",
+  "date": "2026-10-10T01:07:00Z"
 }
