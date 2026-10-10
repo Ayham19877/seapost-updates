@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261111,
-  "versionName": "1.1.9",
+  "versionCode": 20261112,
+  "versionName": "1.1.10",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "العنوان والوصف رجعوا فوق — فوق مشهد الشاطئ.",
-  "date": "2026-10-10T04:10:00Z"
+  "notes": "إصلاح التسريع: الزجاجة تتحرك فعلياً + القائمة تتحدث تلقائياً.",
+  "date": "2026-10-10T04:11:00Z"
 }
