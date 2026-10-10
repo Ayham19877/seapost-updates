@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261106,
-  "versionName": "1.1.6",
+  "versionCode": 20261109,
+  "versionName": "1.1.7",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "⭐ رصيد النقاط ظاهر بكل الشاشات (عدا الرئيسية) + 5 نقرات سريعة على الرصيد = 1000 نقطة للتجربة",
-  "date": "2026-10-10T03:55:00Z"
+  "notes": "حبة النقاط: عربي=يسار، انجليزي=يمين — ما عادت تركب فوق العناوين.",
+  "date": "2026-10-10T03:59:00Z"
 }
