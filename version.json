@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261040,
-  "versionName": "1.0.32",
+  "versionCode": 20261041,
+  "versionName": "1.0.33",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "حواف صورة الشاطئ الرئيسية صارت تتلاشى تدريجياً — مندمجة تماماً بالخلفية بلا أي حد.",
-  "date": "2026-10-10T03:25:00Z"
+  "notes": "الطلبات الصادرة صارت تعرض البحر (عبر زجاجة من بحر ...) تحت حالة الانتظار.",
+  "date": "2026-10-10T03:26:00Z"
 }
