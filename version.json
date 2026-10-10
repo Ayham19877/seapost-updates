@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261043,
-  "versionName": "1.0.35",
+  "versionCode": 20261044,
+  "versionName": "1.0.36",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إصلاح جذري للحواف: إلغاء القص (fitCenter) + تلاشي أقوى — الصورة تذوب بالخلفية.",
-  "date": "2026-10-10T03:35:00Z"
+  "notes": "صورة الشاطئ: الحواف تذوب بلون الخلفية نفسه (#06283D) — بلا أي حد.",
+  "date": "2026-10-10T03:38:00Z"
 }
