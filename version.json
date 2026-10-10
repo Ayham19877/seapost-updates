@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261134,
-  "versionName": "1.1.30",
+  "versionCode": 20261135,
+  "versionName": "1.1.31",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "طبقة رملية شفافة تحت العنوان + الاسم عريض بحواف بيضاء.",
-  "date": "2026-10-10T06:11:00Z"
+  "notes": "إصلاح رقم النسخة + الطبقة الرملية + الاسم بحواف بيضاء.",
+  "date": "2026-10-10T06:21:00Z"
 }
