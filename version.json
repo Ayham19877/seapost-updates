@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261042,
-  "versionName": "1.0.34",
+  "versionCode": 20261043,
+  "versionName": "1.0.35",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "أيقونة جديدة: زجاجة ذهبية مضيئة مع أصداف ونجم بحر.",
-  "date": "2026-10-10T03:31:00Z"
+  "notes": "إصلاح جذري للحواف: إلغاء القص (fitCenter) + تلاشي أقوى — الصورة تذوب بالخلفية.",
+  "date": "2026-10-10T03:35:00Z"
 }
