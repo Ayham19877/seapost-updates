@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261039,
-  "versionName": "1.0.31",
+  "versionCode": 20261040,
+  "versionName": "1.0.32",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "صورة رئيسية جديدة: مشهد شاطئ متكامل (زجاجة ذهبية + أصداف + نجم بحر + شعاب) مدمج بالخلفية بتدرج ناعم.",
-  "date": "2026-10-10T03:22:00Z"
+  "notes": "حواف صورة الشاطئ الرئيسية صارت تتلاشى تدريجياً — مندمجة تماماً بالخلفية بلا أي حد.",
+  "date": "2026-10-10T03:25:00Z"
 }
