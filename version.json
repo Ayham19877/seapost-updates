@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261145,
-  "versionName": "1.1.41",
+  "versionCode": 20261146,
+  "versionName": "1.1.42",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "إيقاف صوت البحر بالخلفية + رفض النقاط البرية الواضحة.",
-  "date": "2026-10-10T08:36:00Z"
+  "notes": "إخفاء جملة الخريطة المكررة بشاشة الصيد + وضوح الرتبة.",
+  "date": "2026-10-10T08:40:00Z"
 }
