@@ -1,8 +1,8 @@
 {
-  "versionCode": 20261120,
-  "versionName": "1.1.18",
+  "versionCode": 20261121,
+  "versionName": "1.1.19",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/seapost-updates/main/SeaPost.apk",
   "url": "https://github.com/Ayham19877/seapost-updates/raw/main/SeaPost.apk",
-  "notes": "انشال التسريع من شاشة الرمي — النقاط بس لتسريع الزجاجة المنجرفة.",
-  "date": "2026-10-10T04:55:00Z"
+  "notes": "نظام رتب الصيادين: الرمي من منطقتك فقط، والصيد حسب الرتبة (هدايا أكتر = صيد أبعد). القبطان يصطاد وين ما بده.",
+  "date": "2026-10-10T05:04:00Z"
 }
